@@ -19,9 +19,9 @@ The inference service is in development. Follow the build on **[X / @danilabsai]
 
 | Project | Responsibility |
 | --- | --- |
-| [subnet](https://github.com/DaniLabsAI/subnet) | Bittensor subnet protocol, validators, and miners |
+| [subnet](https://github.com/DaniLabsAI/subnet) | Bittensor validator code, report validation, scoring, and chain weights |
 | Server / service | Hosted backend services and APIs |
 | Platform | Frontend website and application |
-| ManagedVNetIR | Rust-based downloadable miner kit |
+| ManagedVNetIR | All miner software: Rust miner kit, onboarding, managed inference runtime, and streaming |
 
 Additional repository links will be added as the projects become public.
